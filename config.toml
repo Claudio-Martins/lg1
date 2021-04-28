@@ -1,4 +1,4 @@
-baseURL = "http://lgaspar.pt"
+baseURL = "https://claudio-martins.github.io/lg1/"
 languageCode = "pt-pt"
 title = "Laurentino Gaspar"
 # for smart copyright line, leave this blank and check [params.copyright]
