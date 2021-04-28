@@ -1,9 +1,11 @@
 baseURL = "http://lgaspar.pt"
+languageCode = "pt-pt"
 title = "Laurentino Gaspar"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
 theme = "minimo"
+publishDir = "docs"
 
 disqusShortname = ""
 googleAnalytics = ""

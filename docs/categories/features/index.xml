@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentação on Laurentino Gaspar</title>
-    <link>http://lgaspar.pt/docs/</link>
-    <description>Recent content in Documentação on Laurentino Gaspar</description>
+    <title>features on Laurentino Gaspar</title>
+    <link>http://lgaspar.pt/categories/features/</link>
+    <description>Recent content in features on Laurentino Gaspar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Feb 2021 18:30:00 +0600</lastBuildDate><atom:link href="http://lgaspar.pt/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-pt</language>
+    <lastBuildDate>Mon, 01 Feb 2021 18:30:00 +0600</lastBuildDate><atom:link href="http://lgaspar.pt/categories/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seguros ramo vida</title>
       <link>http://lgaspar.pt/docs/widgets/</link>

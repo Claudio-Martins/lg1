@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Laurentino Gaspar</title>
-    <link>http://lgaspar.pt/</link>
-    <description>Recent content in Home on Laurentino Gaspar</description>
+    <title>Documentação on Laurentino Gaspar</title>
+    <link>http://lgaspar.pt/docs/</link>
+    <description>Recent content in Documentação on Laurentino Gaspar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Feb 2021 18:30:00 +0600</lastBuildDate><atom:link href="http://lgaspar.pt/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Acerca de nós</title>
-      <link>http://lgaspar.pt/acerca-de-n%C3%B3s/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lgaspar.pt/acerca-de-n%C3%B3s/</guid>
-      <description>Colocar aqui a história da empresa.
-Uma descrição dos recursos da empresa e fatores distintos.
-Acabar com uma frase brilhante!</description>
-    </item>
-    
+    <language>pt-pt</language>
+    <lastBuildDate>Mon, 01 Feb 2021 18:30:00 +0600</lastBuildDate><atom:link href="http://lgaspar.pt/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seguros ramo vida</title>
       <link>http://lgaspar.pt/docs/widgets/</link>
@@ -43,18 +33,6 @@ You can hide the Main Menu using the following option in your config.toml file:
 [params.settings] hideMainMenu = true Sidebar Menu name: sidebar
 You can use Sidebar Menu as normal Hugo Menus .
 [sidebar_menu] .</description>
-    </item>
-    
-    <item>
-      <title>Contactos</title>
-      <link>http://lgaspar.pt/contactos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lgaspar.pt/contactos/</guid>
-      <description>☎️ 219 375 059 (ligar agora) 📱 935 887 828 (ligar agora) ✉️ geral@lgaspar.pt
-📍 Alameda Fernando Namora Nº 4 Loja 1
-Povoa de Santo Adrião , 2620-094
-Obter direções </description>
     </item>
     
   </channel>
