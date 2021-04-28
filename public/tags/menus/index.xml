@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>menus on Laurentino Gaspar</title>
+    <link>http://lgaspar.pt/tags/menus/</link>
+    <description>Recent content in menus on Laurentino Gaspar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate><atom:link href="http://lgaspar.pt/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seguros ramo &#34;não vida&#34;</title>
+      <link>http://lgaspar.pt/docs/menus/</link>
+      <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
+      
+      <guid>http://lgaspar.pt/docs/menus/</guid>
+      <description>Minimo has three menus.
++++
+ Main Menu Sidebar Menu Social Menu  Main Menu name: main
+Main menu is located at the top of the site.
+Check Hugo&amp;amp;rsquo;s Menus Documentation for information about managing this menu.
+You can hide the Main Menu using the following option in your config.toml file:
+[params.settings] hideMainMenu = true Sidebar Menu name: sidebar
+You can use Sidebar Menu as normal Hugo Menus .
+[sidebar_menu] .</description>
+    </item>
+    
+  </channel>
+</rss>
